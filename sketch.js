@@ -31,7 +31,7 @@ function setup() {
 
 function draw() {
   rectMo=(CENTER);
-  background(255);
+  background("pink");
   
   roof.display()
   rope1.display();
